@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: paranoidandroid98.github.io/Fractured-Isle-Wiki
+  baseUrl: "paranoidandroid98.github.io/Fractured-Isle-Wiki"
   ignorePatterns:
     - private
     - templates
