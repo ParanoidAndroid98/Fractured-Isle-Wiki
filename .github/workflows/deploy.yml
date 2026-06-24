@@ -34,6 +34,9 @@ jobs:
       - name: Initialize Plugin Directories
         run: node quartz/bootstrap-cli.mjs create --strategy copy --source content
 
+      - name: Install Quartz Plugins
+        run: npx quartz plugin install
+
       - name: Build Quartz
         run: npx quartz build # <--- Standard Quartz build command
 
