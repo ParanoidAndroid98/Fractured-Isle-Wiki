@@ -20,6 +20,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # <--- CRITICAL: This pulls git history so Quartz can read file dates
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -27,10 +29,10 @@ jobs:
           node-version: 22
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci # <--- Recommended: 'npm ci' is cleaner and faster for automated builds
 
       - name: Build Quartz
-        run: node quartz/bootstrap-cli.mjs build
+        run: npx quartz build # <--- Standard Quartz build command
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
