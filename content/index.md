@@ -75,12 +75,16 @@
 - [[campaign/Hidden Truths|Hidden Truths (DM Only)]]
 - [[campaign/Adventure Frameworks|Adventure Frameworks]]
 
+### Player Characters
+- [[player_characters/Cyrus|Cyrus]]
+- [[player_characters/Gylly|Gylly]]
+- [[player_characters/Nyx|Nyx]]
+- [[player_characters/Syrio|Syrio]]
+- [[player_characters/Vash|Vash]]
+
 ### [[session_notes/Overview|Player Session Notes]]
-- [[session_notes/1a. Introduction|1a. Introduction]]
-- [[session_notes/1b. Followers of the Bakujira|1b. Followers of the Bakujira]]
-- [[session_notes/1c. Root and Lantern|1c. Root and Lantern]]
-- [[session_notes/1d. Searching for answers|1d. Searching for answers]]
-- [[session_notes/1e. Pastries Please|Latest]]
+- [[session_notes/Overview|Overview]]
+- [[session_notes/1f. Root of the problem|Latest]]
 
 ---
 

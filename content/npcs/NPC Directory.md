@@ -8,17 +8,18 @@ A quick-reference directory of all named NPCs in the Fractured Isles. Click thro
 
 ## Dragon Rulers
 
-| Name | Province | Form | Personality Summary |
-|------|----------|------|---------------------|
-| **Umeial** | [[nations/Red Dragon Province\|Red]] | Large androgynous figure, red scales, multiple piercings | Direct, impatient with pretension, genuinely invested in capability |
-| **Kentath** | [[nations/Blue Dragon Province\|Blue]] | Tall, blue-haired martial artist, clouded left eye | Precise, honest to discomfort, principled, warm to those with integrity |
-| **Zirdirenth** | [[nations/Black Dragon Province\|Black]] | Dark-skinned woman, mechanical arm, habitually gaunt | Methodical, honest about limits, dry humour |
-| **Frezant** | [[nations/Silver Dragon Province\|Silver]] | Stout, weathered, white hair, whale ivory jewellery | Slow to trust, strategically patient, loyal once trust is earned |
-| **Fiztril** | [[nations/Bronze Dragon Province\|Bronze]] | Gnomish-featured sorcerer, bronze scales on temples, spectacles | Intellectually voracious, deeply kind, slightly distracted |
-| **Ximoal** | [[nations/Brass Dragon Province\|Brass]] | Tall metallic older woman, brass scales on hands, round spectacles | Patient, respectful of other perspectives, tracking more variables than anyone knows |
-| **Dask-Ijer** | [[nations/Copper Dragon Province\|Copper]] | Androgynous, draconic wings in humanoid form, elaborate shifting clothing | Playful, genuinely troubled by the class divide they've created |
-| **Silvantis** | [[nations/Gold Dragon Province\|Gold]] | Tall, almost-elven features, golden scales, always has a ledger | Elegant, financially brilliant, privately distasteful of the wealth-performance culture |
-| **Frureonys** | [[nations/Green Dragon Province\|Green]] | Brown-skinned, ten feet tall, flowers in hair that moves, bark-like skin | Unhurried, deeply attentive, immovable on ecological preservation |
+| Name                   | Province                                        | Form                                                                     | Personality Summary |
+|------------------------|-------------------------------------------------|--------------------------------------------------------------------------|---------------------|
+| **Umeial**             | [[nations/Red Dragon Province\|Red]]            | Large androgynous figure, red scales, multiple piercings                 | Direct, impatient with pretension, genuinely invested in capability |
+| **Kentath**            | [[nations/Blue Dragon Province\|Blue]]          | Tall, blue-haired martial artist, clouded left eye                       | Precise, honest to discomfort, principled, warm to those with integrity |
+| **Zirdirenth**         | [[nations/Black Dragon Province\|Black]]        | Dark-skinned woman, mechanical arm, habitually gaunt                     | Methodical, honest about limits, dry humour |
+| **Frezant**            | [[nations/Silver Dragon Province\|Silver]]      | Stout, weathered, white hair, whale ivory jewellery                      | Slow to trust, strategically patient, loyal once trust is earned |
+| **Fiztril**            | [[nations/Bronze Dragon Province\|Bronze]]      | Gnomish-featured sorcerer, bronze scales on temples, spectacles          | Intellectually voracious, deeply kind, slightly distracted |
+| **Ximoal**             | [[nations/Brass Dragon Province\|Brass]]        | Tall metallic older woman, brass scales on hands, round spectacles       | Patient, respectful of other perspectives, tracking more variables than anyone knows |
+| **Dask-Ijer**          | [[nations/Copper Dragon Province\|Copper]]      | Androgynous, draconic wings in humanoid form, elaborate shifting clothing | Playful, genuinely troubled by the class divide they've created |
+| **Silvantis**          | [[nations/Gold Dragon Province\|Gold]]          | Tall, almost-elven features, golden scales, always has a ledger          | Elegant, financially brilliant, privately distasteful of the wealth-performance culture |
+| **Frureonys**          | [[nations/Green Dragon Province\|Green]]        | Brown-skinned, ten feet tall, flowers in hair that moves, bark-like skin | Unhurried, deeply attentive, immovable on ecological preservation |
+| **Countess Calladria** | [[nations/Gold Dragon Province\|Gold]]; Aurixis | 9' godly woman                                                           |  |
 
 ---
 
@@ -96,11 +97,11 @@ Full profiles with adventure hooks: [[Notable Figures]]
 
 ## Notable Living NPCs (3000 AF)
 
-| Name | Location | Relevance |
-|------|----------|-----------|
-| *The Unnamed Inquisitor* | Blue Dragon Province | Matches Figure 1 in Ysolde's final painting; has a scar on their left hand |
-| *The Unnamed Pathfinder* | Currently in transit | Matches Figure 3; has had an illegal reproduction of the painting for three years |
-| *The Missing Translator* | Unknown | Was translating a critical Vault artefact for the Inquisition; has not filed a report in six weeks |
-| *The Bronze Province Researcher* | Thalerix Spire — partly | Opened a Vault artefact without containment; is now somewhere that isn't entirely the material plane |
-EOF
-echo "done"
+| Name                            | Location                | Relevance                                                                                                                  |
+|---------------------------------|-------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| *The Unnamed Inquisitor*        | Blue Dragon Province    | Matches Figure 1 in Ysolde's final painting; has a scar on their left hand                                                 |
+| *The Unnamed Pathfinder*        | Currently in transit    | Matches Figure 3; has had an illegal reproduction of the painting for three years                                          |
+| *The Missing Translator*        | Unknown                 | Was translating a critical Vault artefact for the Inquisition; has not filed a report in six weeks                         |
+| *The Bronze Province Researcher* | Thalerix Spire — partly | Opened a Vault artefact without containment; is now somewhere that isn't entirely the material plane                       |
+| **Onyx Reliquary**              | Unknown                 | Renowned armourer. Founded Guild of Reliquaries                                                                            |
+| **Lady Seraphim**               | Aurixis                 | Armourer capable of smithing very unique and high quality items for the party. Member of Guild of Reliquaries.             |

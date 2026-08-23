@@ -27,3 +27,12 @@ The **Chromatic Inquisition** works closely with the Ebony Order and is often mi
 The **Banks** are technically separate from political power — and in practice cannot be entirely distinguished from it.
 
 The **Pathfinders** maintain political neutrality as a core institutional value and have done so consistently enough over 1,200 years that even the Inquisition generally takes their geographic records at face value.
+
+---
+
+## Minor Organisations
+
+| Organisation                  | Founded     | Notes                                               | HQ      |
+|-------------------------------|-------------|-----------------------------------------------------|---------|
+| **Followers of the Bakujira** | Unknown     | Worship the Bakujira, a form of marredspawn         | Unknown |
+| **The Guild of Reliquaries**  | Unknown     | Founded by Onyx Reliquary, renowned master armourer | Unknown |
