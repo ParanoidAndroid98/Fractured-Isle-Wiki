@@ -7,6 +7,9 @@
 **Physical Description**: \
 Tall, purple skin, horns, non-functional wings. Well dressed.
 
+**Likes**: Seduction, money, power \
+**Dislikes**: *unknown*
+
 **General notes**: \
 Quite famous performer. Can play the lute. A bit of a seductress.
 

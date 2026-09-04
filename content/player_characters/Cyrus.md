@@ -4,7 +4,11 @@
 **Race**: Dragonborn \
 **Class**: Rogue \
 **Alignment**: Neutral good \
-**Physical Description**: \
+**Physical Description**: - \
+*unknown*
+
+**Likes**: *unknown* \
+**Dislikes**: *unknown*
 
 **General notes**: \
 Is good-hearted. Can spew acid at people.

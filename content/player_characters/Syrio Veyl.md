@@ -7,8 +7,11 @@
 **Physical Description**: \
 5' 10'' human male, slender build. Black curly hair.
 
+**Likes**: Exploring new cultures, freedom, travelling, dueling, martial combat, fine wine \
+**Dislikes**: Unnecessary violence
+
 **General notes**: \
-Dexterity-based show fighter, fights with a rapier and shield. 
+Dexterity-based show fighter, fights with a rapier and dueling shield. 
 Has travelled the lands, most recently in Ravenshold before meeting the party in Dathmir by the Sea.
 Worships Ventis, god of wind, freedom and travel. Plays the Lute.
 
