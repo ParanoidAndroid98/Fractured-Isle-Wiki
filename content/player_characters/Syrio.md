@@ -1,3 +1,6 @@
+<img src="assets/characters/Syrio.jpg"
+     style="float: right; width: 250px; margin-left: 20px; margin-bottom: 10px;">
+
 # Syrio Veyl
 
 **Race**: Human \
