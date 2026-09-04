@@ -1,4 +1,5 @@
-# Vash
+<img src="assets/characters/Vash.jpg"
+     style="float: right; width: 250px; max-width: 25%; height: auto; margin-left: 20px;  margin-bottom: 10px;">
 
 **Race**: Tiefling\
 **Class**: Glamour Bard\

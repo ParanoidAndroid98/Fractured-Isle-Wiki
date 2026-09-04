@@ -77,9 +77,9 @@
 
 ### Player Characters
 - [[player_characters/Cyrus|Cyrus]]
-- [[player_characters/Gylly|Gylly]]
+- [[player_characters/Gale van Gyllydall|Gale van Gyllydall]]
 - [[player_characters/Nyx|Nyx]]
-- [[player_characters/Syrio|Syrio]]
+- [[player_characters/Syrio Veyl|Syrio Veyl]]
 - [[player_characters/Vash|Vash]]
 
 ### [[session_notes/Overview|Player Session Notes]]

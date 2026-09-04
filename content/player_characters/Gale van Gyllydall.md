@@ -1,4 +1,5 @@
-# Gale van Glyydall
+<img src="assets/characters/Gylly.jpg"
+     style="float: right; width: 250px; max-width: 25%; height: auto; margin-left: 20px;  margin-bottom: 10px;">
 
 **Race**: Gnome \
 **Class**: Bard \

@@ -1,7 +1,5 @@
 <img src="assets/characters/Syrio.jpg"
-     style="float: right; width: 250px; margin-left: 20px; margin-bottom: 10px;">
-
-# Syrio Veyl
+     style="float: right; width: 250px; max-width: 25%; height: auto; margin-left: 20px;  margin-bottom: 10px;">
 
 **Race**: Human \
 **Class**: Battlemaster Fighter \
