@@ -11,7 +11,7 @@ Tall, purple skin, horns, non-functional wings. Well dressed.
 **Dislikes**: *unknown*
 
 **General notes**: \
-Quite famous performer. Can play the lute. A bit of a seductress.
+Quite famous performer. Can play the lute. A bit of a seductress. Attuned to order magic?
 
 **Known to players, but not characters**: \
 Occasionally gives in to magical corruption

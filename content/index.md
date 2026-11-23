@@ -81,10 +81,11 @@
 - [[player_characters/Nyx|Nyx]]
 - [[player_characters/Syrio Veyl|Syrio Veyl]]
 - [[player_characters/Vash|Vash]]
+- [[player_characters/Unknown|Unknown]]
 
 ### [[session_notes/Overview|Player Session Notes]]
 - [[session_notes/Overview|Overview]]
-- [[session_notes/1f. Root of the problem|Latest]]
+- [[session_notes/1h. Speaking for the Trees|Latest]]
 
 ---
 

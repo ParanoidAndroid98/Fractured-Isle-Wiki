@@ -9,3 +9,5 @@ NB: all notes are made by players, and may contain errors or inaccuracies. Pleas
 - [[session_notes/1d. Searching for answers|1d. Searching for answers]]
 - [[session_notes/1e. Pastries Please|1e. Pastries Please]]
 - [[session_notes/1f. Root of the problem|1e. Root of the problem]]
+- [[session_notes/1g. Thorn in my Side|1g. Thorn in my Side]]
+- [[session_notes/1h. Speaking for the Trees|1h. Speaking for the Trees]]

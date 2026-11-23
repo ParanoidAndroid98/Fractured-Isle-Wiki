@@ -7,7 +7,7 @@
 **Physical Description**: \
 5' 10'' human male, slender build. Black curly hair.
 
-**Likes**: Exploring new cultures, freedom, travelling, dueling, martial combat, fine wine \
+**Likes**: Exploring new cultures, freedom, travelling, dueling, martial combat, fine wine. \
 **Dislikes**: Unnecessary violence
 
 **General notes**: \
